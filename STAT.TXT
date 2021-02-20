@@ -1,0 +1,25 @@
+1. Variablity Parameters 
+=================
+a. Standard Deviation
+b. Relative Standard Deviation
+c. Quartiles
+d. Average
+e. Median
+f. Average deviation
+
+2. Z Scores
+========
+( Zr ) Robust Z Score = ( Result - median ) / NIQR
+NIQR - Nomalized inter quartile range = IQR x 0.7453
+IQR = Q3 - Q1
+Q1 = 1st quartile & Q3 = 3rd quartile
+
+
+Zc = Classical Z Score = ( Result - Average ) / Standard Deviation
+
+3. Youden Plot
+4. Lilliforse test
+5. Dixon's test
+6. Grubb's test
+
+ISO5725.
